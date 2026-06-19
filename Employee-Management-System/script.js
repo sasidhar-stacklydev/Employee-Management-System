@@ -163,6 +163,9 @@ console.log(100 <= 100);      // true
 // Task 10 - User Interaction
 // ============================
 
+console.log("\nUser Interaction");
+console.log("----------------");
+
 let empName = prompt("Enter Employee Name:");
 let empAge = prompt("Enter Employee Age:");
 
@@ -213,7 +216,7 @@ pass === "@12345"
 : "Failed";
 
 console.log("\n==============================");
-console.log("      EMPLOYEE PORTAL");
+console.log("EMPLOYEE PORTAL--Final Challange");
 console.log("==============================");
 console.log(`Employee Name : ${employee.name}`);
 console.log(`Employee ID   : ${employee.id}`);
